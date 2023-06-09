@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Android_Play_Store_Logo">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Android_Play_Store_Logo" data-name="Android Play Store Logo" clip-path="url(#clip-Android_Play_Store_Logo)">
+    <rect width="512" height="512"/>
+    <path id="Path_1" data-name="Path 1" d="M-658.1,2.8-622.4-43.845c0-5.131-.338,0,0,0L-658.1,2.8c-1.106,4.366,7.174-14.515,6.3-12.624L-655.957,2.8h-7.805L-697.542-71.06a56.842,56.842,0,0,1-2.971-9.924h-.276q.554,5.8.552,18.97V2.8h-56.144l44.954-96.807h15.337L-665.7-26.5a85.517,85.517,0,0,1,4.558,11.612h.414q2.97-7.967,4.766-11.883l31.018-67.238h14.507V2.8Zm-109.888,0V-83.752h-28.531v-10.26h85.088v10.26h-44.954V2.8Z" transform="translate(959.474 301.279)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M.566-1.981h8.82v10.6L-2.148,4.973Z" transform="translate(233.41 272.348)"/>
+  </g>
+</svg>
